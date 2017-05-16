@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.alisir.login.MainActivity">
+
+    <TextView
+        android:text="登录界面"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="101dp"
+        android:id="@+id/textView" />
+
+    <TextView
+        android:text="姓名"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_alignStart="@+id/textView"
+        android:layout_marginTop="81dp"
+        android:id="@+id/textView2"
+        android:layout_alignEnd="@+id/textView"
+        android:textAlignment="center" />
+
+    <CheckBox
+        android:text="登录结果"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="48dp"
+        android:id="@+id/login_checkBox" />
+
+    <Button
+        android:text="登录"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/login_checkBox"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="74dp"
+        android:id="@+id/login_button" />
+</RelativeLayout>
