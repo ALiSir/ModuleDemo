@@ -19,6 +19,8 @@ coremain是程序代表程序核心模块。
 
 
 联系方式：
+
   QQ群：
+  
 ![Aaron Swartz](https://github.com/ALiSir/Resource/raw/master/Images/qq.JPG)
 
