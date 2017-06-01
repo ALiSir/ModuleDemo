@@ -9,12 +9,15 @@ base是基本库，它包含的库、类、文件；全局module都可以访问�
 login是程序入口。 </br>
 coremain是程序代表程序核心模块。 </br>
 
+## 基本结构图
 ![Aaron Swartz](https://github.com/ALiSir/ModuleDemo/raw/8974ab0887925096ba5d7f3b15ebc87a14a2476e/app/src/main/res/mipmap-xxhdpi/show.png)
 
 
 # 联系方式：
 
 QQ群：584616826
+  
+  <div align=center><img src="https://github.com/ALiSir/Resource/raw/master/Images/qq.JPG"/ alt="扫一扫，加入QQ群！"></div>
   
 ![Aaron Swartz](https://github.com/ALiSir/Resource/raw/master/Images/qq.JPG "扫一扫，加入QQ群！")
 
