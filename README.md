@@ -17,7 +17,5 @@ coremain是程序代表程序核心模块。 </br>
 
 QQ群：584616826
   
-  <div align=center><img src="https://github.com/ALiSir/Resource/raw/master/Images/qq.JPG"/ alt="扫一扫，加入QQ群！"></div>
-  
 ![Aaron Swartz](https://github.com/ALiSir/Resource/raw/master/Images/qq.JPG "扫一扫，加入QQ群！")
 
